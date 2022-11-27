@@ -135,7 +135,7 @@ class Callmyway(http.Controller):
             
         return params_partner
             
-    
+        #producto, origen del interes, asesor encargado del contacto
         
         
         
